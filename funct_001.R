@@ -1,12 +1,12 @@
 ## ################################################## 
-## #   Función artimetica.                          #
+## #   Función artimetica                             #
 ## ##################################################
 arith<- function(x,y){
   result <- x*y
   print(paste("Resultado : ", toString(result), SEP=" ", collapse= NULL ));
 }
 ## ################################################## 
-## #  Promedia de una secuencia de números          #
+## #  Promedio de una secuencia de números.          #
 ## ##################################################
 promedio <- function (x){
   
